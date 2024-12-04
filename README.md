@@ -13,7 +13,7 @@ The Expense Tracker Backend is built using Nest.js and MongoDB. It provides REST
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone git clone https://github.com/Meghavi23/expense-tracker-backend.git
    cd expense-tracker-backend
    ```
 
